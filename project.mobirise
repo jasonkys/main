@@ -101,7 +101,7 @@
               }
             },
             ".dataTables_filter": {
-              "text-align": "right",
+              "text-align": "center",
               "margin-bottom": ".5rem",
               "label": {
                 "display": "inline",
